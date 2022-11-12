@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\Code\test_11_5\test_11_5\源.cpp(178,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Code\test_11_5\test_11_5\源.cpp(192,17): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\test_11_5\test_11_5\源.cpp(193,15): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  test_11_5.vcxproj -> D:\Code\test_11_5\x64\Debug\test_11_5.exe
