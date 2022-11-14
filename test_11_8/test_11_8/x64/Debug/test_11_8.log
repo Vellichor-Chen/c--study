@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\Code\test_11_8\test_11_8\源.cpp(23,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Code\test_11_8\test_11_8\源.cpp(35,20): warning C4244: “=”: 从“double”转换到“ll”，可能丢失数据
+D:\Code\test_11_8\test_11_8\源.cpp(46,13): warning C4244: “=”: 从“double”转换到“ll”，可能丢失数据
+  test_11_8.vcxproj -> D:\Code\test_11_8\x64\Debug\test_11_8.exe
